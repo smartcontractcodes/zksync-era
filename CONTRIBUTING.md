@@ -18,10 +18,7 @@ There are many ways to contribute to the ZK Stack:
 
 ## Fixing issues
 
-To contribute code fixing issues, please fork the repo, fix an issue, commit, add documentation as per the PR template,
-and the repo's maintainers will review the PR.
-[here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
-for guidance how to work with PRs created from a fork.
+To contribute code fixing issues, please fork the repository, implement your fix, commit your changes, add documentation following the PR template, and submit a pull request for the repository maintainers to review. For guidance on how to work with PRs created from a fork, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 ## Licenses
 
